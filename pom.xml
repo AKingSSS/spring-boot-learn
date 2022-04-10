@@ -11,6 +11,7 @@
         <module>spring-v1</module>
         <module>spring-v2</module>
         <module>spring-v3</module>
+        <module>spring-v4</module>
     </modules>
     <name>spring-boot-learn</name>
     <description>Demo project for Spring Boot</description>
